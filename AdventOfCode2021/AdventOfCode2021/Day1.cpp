@@ -2,7 +2,7 @@
 #include <fstream>
 #include <string>
 #include <vector>
-#include "Day1.h"
+#include "Days.h"
 
 void Day1Part1() {
 	std::string fileName="Day1.txt";

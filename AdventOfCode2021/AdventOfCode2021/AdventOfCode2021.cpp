@@ -1,7 +1,7 @@
 ﻿#include <iostream>
-#include "Day1.h"
+#include "Days.h"
 
 int main()
 {
-    Day1Part2();
+    Day2Part2();
 }
